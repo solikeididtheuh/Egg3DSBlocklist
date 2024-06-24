@@ -4,3 +4,4 @@
 ||cdngslb.com^
 ||cnzz.com^
 ||app-measurement.com^
+||akamaiedge.net^
