@@ -1,3 +1,6 @@
+[Egg3DS Telemetry Blocklist]
+
+
 ||umengcloud.com^
 ||umeng.com^
 ||bigeyes.com^
